@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+mouse-rs = "0.4"
+mki = "0.2.3"
+input = "0.7"
+libc = "0.2"
+pistoncore-input = "1.0.1"
